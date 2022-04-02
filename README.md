@@ -51,4 +51,4 @@
 `npm start`
 ## Projeden fotoğraflar / Photos from the project
 
-<img src="https://i.ibb.co/tbCPpZK/marvelheroes.gif" alt="marvelheroes"/>
+<iframe src="https://giphy.com/embed/3BsJ7PRlOQN5pLvOM4" width="480" height="270" ></iframe>
